@@ -3,4 +3,3 @@ function sayHello(name) {
 }
 
 sayHello('VS Code');
-}
